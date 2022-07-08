@@ -1,1 +1,2 @@
-Hello Artifactory and Sonar
+Hello world
+July 08
